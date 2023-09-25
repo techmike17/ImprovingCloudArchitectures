@@ -1,0 +1,105 @@
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar archivos de compilación y binarios
+/bin/
+/target/
+/out/
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de caché de IntelliJ
+.idea/
+
+# Ignorar archivos de caché de Maven
+*.iml
+.mvn/
+
+# Ignorar archivos de NetBeans
+/nbproject/private/
+
+# Ignorar archivos de caché de Gradle
+.gradle/
+
+# Ignorar archivos de caché de SBT
+.target/
+
+# Ignorar archivos de caché de VS Code
+.vscode/
+
+# Ignorar archivos de caché de Android Studio
+*.apk
+*.ap_
+*.dex
+build/
+
+# Ignorar archivos generados por Javadoc
+/javadoc/
+
+# Ignorar archivos generados por la IDE
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/*.launch
+/*.iml
+/*.ipr
+/*.iws
+
+# Ignorar archivos de dependencias de Maven
+/repository/
+
+# Ignorar archivos de configuración de Spring Boot
+/application.properties
+/application.yml
+
+# Ignorar archivos de configuración de Gradle
+/gradle.properties
+/gradle-local.properties
+/gradlew
+/gradlew.bat
+
+# Ignorar archivos de configuración de Eclipse
+/.factorypath
+
+# Ignorar archivos de configuración de IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar archivos de configuración de NetBeans
+/nb-configuration.xml
+
+# Ignorar archivos de configuración de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de NetBeans
+/nb-configuration.xml
+
+# Ignorar archivos de configuración de proyecto de Eclipse
+*.launch
+*.classpath
+*.project
+
+# Ignorar archivos de configuración de proyecto de NetBeans
+/nb-configuration.xml
+
+# Ignorar archivos de configuración de proyecto de IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar archivos .zip
+*.zip
