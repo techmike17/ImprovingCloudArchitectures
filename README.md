@@ -27,4 +27,4 @@ The directory where the test cases are located is /localSpace/cloudEnergy/clouds
 This configuration is for one iteration where 100% of the machines are involved in the crossover, and there is a 10% mutation probability. 
 The simulator is located in the directory /localSpace/cloudEnergy/cloudsimStorage/evolutionary.
 
-''nsgaii cloudsimstorage /localSpace/cloudEnergy/cloudsimStorage/test_generic_fw 1 100 10 /localSpace/cloudEnergy/cloudsimStorage/evolutionary''
+```nsgaii cloudsimstorage /localSpace/cloudEnergy/cloudsimStorage/test_generic_fw 1 100 10 /localSpace/cloudEnergy/cloudsimStorage/evolutionary```
