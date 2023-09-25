@@ -22,9 +22,8 @@ To run the test case presented in the previous step, the system requires certain
 The algorithms available are: ga, moga, paes, nsgaii and spea2.
 
 
-An example configuration of the input parameters can be seen below. In this example, the selected algorithm is NSGAII, with the CloudSimStorage simulator. 
-The directory where the test cases are located is /localSpace/cloudEnergy/cloudsimStorage/test_generic_fw. 
-This configuration is for one iteration where 100% of the machines are involved in the crossover, and there is a 10% mutation probability. 
+An example configuration of the input parameters can be seen below. In this example, the selected algorithm is NSGAII, with the CloudSimStorage simulator. The directory where the test cases are located is /localSpace/cloudEnergy/cloudsimStorage/test_generic_fw. 
+This configuration is for 1 iteration where 100% of the machines are involved in the crossover, and there is a 10% mutation probability. 
 The simulator is located in the directory /localSpace/cloudEnergy/cloudsimStorage/evolutionary.
 
 ```nsgaii cloudsimstorage /localSpace/cloudEnergy/cloudsimStorage/test_generic_fw 1 100 10 /localSpace/cloudEnergy/cloudsimStorage/evolutionary```
